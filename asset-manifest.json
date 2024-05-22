@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/akhilport/static/css/main.a5d9107c.css",
+    "main.js": "/akhilport/static/js/main.1684860e.js",
+    "static/media/Whangaehu.png": "/akhilport/static/media/Whangaehu.7cec9c40e2b2b70e81b1.png",
+    "static/media/Linth.png": "/akhilport/static/media/Linth.fe344e83c0ac9ed47053.png",
+    "static/media/background2.png": "/akhilport/static/media/background2.e2f90b334d8ee6b0b50c.png",
+    "static/media/Rangitikei.png": "/akhilport/static/media/Rangitikei.f8f48d3af5d9899d26f3.png",
+    "static/media/Vorderrhein.png": "/akhilport/static/media/Vorderrhein.f5e54dfd46a938e9fa29.png",
+    "index.html": "/akhilport/index.html",
+    "main.a5d9107c.css.map": "/akhilport/static/css/main.a5d9107c.css.map",
+    "main.1684860e.js.map": "/akhilport/static/js/main.1684860e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d9107c.css",
+    "static/js/main.1684860e.js"
+  ]
+}
